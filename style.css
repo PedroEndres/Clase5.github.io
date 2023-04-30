@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+
+/*------------------------ header -----------------------*/
+
+.header-container {
+  background: #a30d0d;
+  height: 170px;
+  width: 100%;
+  padding: 10px 0;
+}
+
+/*------------------------- nav --------------------------*/
+
+.nav-container > ul {
+  margin: 0;
+  list-style: none;
+}
+
+.nav-container > ul > a {
+  color: white;
+}
+
+/*------------------------ table -------------------------*/
+
+.dia-lunes {
+  color: #ed6f50;
+}
+
+.dia-martes {
+  color: #d85d41;
+}
+
+.dia-miercoles {
+  color: #c44b31;
+}
+
+.dia-jueves {
+  color: #af3922;
+}
+
+.dia-viernes {
+  color: #9a2712;
+}
+
+/*------------------------ form ---------------------------*/
+
+.form-container {
+  border: 1.5px solid black;
+  width: 320px;
+}
+
+/*------------------------- footer -------------------------*/
+
+.footer-container {
+  background: #050000;
+  width: 100%;
+  height: 45px;
+  color: white;
+}
